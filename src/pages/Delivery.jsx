@@ -3,9 +3,7 @@ export default function Delivery() {
 
         <div className="article">
             <div class="container">
-
                 <h2 class="article__title">Доставка і оплата</h2>
-
                 <div class="page-content">
                     <h3>Способи оплати</h3>
                     <p>Ми надаємо зручні та безпечні способи оплати для вашого комфорту. Ви можете вибрати один з наступних способів:</p>
